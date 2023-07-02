@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "nombre": "Harina",
+        "precio": 50,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/219870-1600-auto?v=637790488563100000&width=1600&height=auto&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Cerveza",
+        "precio": 100,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/231313-800-auto?v=638026471022630000&width=800&height=auto&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Galletitas",
+        "precio": 150,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/246448-1600-auto?v=638145774813000000&width=1600&height=auto&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Leche",
+        "precio": 250,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/185919-800-auto?v=637427575503070000&width=800&height=auto&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 1,
+        "nombre": "Aceite",
+        "precio": 500,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/253379-1600-auto?v=638206113134800000&width=1600&height=auto&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 1,
+        "nombre": "Jabón Líquido para Diluir ",
+        "precio": 1800,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/248069-800-auto?v=638167514537370000&width=800&height=auto&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 1,
+        "nombre": "Lavandina",
+        "precio": 300,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/231681-1600-auto?v=638026476333300000&width=1600&height=auto&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 1,
+        "nombre": "Chocolate",
+        "precio": 300,
+        "img": "https://ardiaprod.vtexassets.com/arquivos/ids/242786-800-auto?v=638116362358730000&width=800&height=auto&aspect=true",
+        "cantidad": 1
+    }
+    
+]
